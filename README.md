@@ -19,7 +19,7 @@ Nessa aplicação teremos as features random, byCategory e byText, onde:
  - a feature byText possui um input de texto para que a pessoa possa possa digitar um texto livre e de acordo com o resultado, mostrar aquela frase/piada relacionada ao texto digitado.
 
 ### ✔️ Requisitos funcionais
- - Criar design simples(mas sinta-se livre para criar da forma que quiser 🙂 ), que possua uma Bottom Navigation Bar que representem as features random, byCategory e byText.
+ - Criar design simples (mas sinta-se livre para criar da forma que quiser 🙂), que possua uma Bottom Navigation Bar que representem as features random, byCategory e byText.
  - A tela da feature random deverá mostrar uma nova frase/piada toda vez que a tela for acessada.
  - A tela de feature byCategory deverá mostrar o DropDown para que se possa selecionar alguma das categorias que a API fornece e ao selecionar alguma categoria, deverá mostrar uma frase/piada daquela categoria.
  - A tela da feature byText terá o Text Field para inserir o text livre e um botão para realizar a pesquisa, mostrando a frase/piada de acordo com o texto.
@@ -33,7 +33,7 @@ Nessa aplicação teremos as features random, byCategory e byText, onde:
 - Utilização de gerenciamento de estados de sua preferência.
 - Uso de algum padrão de arquitetura.
 
-### 🎁 Requisitos bônus(Se sobrar tempo e se sentir confortável, não sendo obrigatório também a execução de todos os itens)
+### 🎁 Requisitos bônus (Se sobrar tempo e se sentir confortável, não sendo obrigatório também a execução de todos os itens)
 
 - Adicionar uma splash screen com alguma animação para o aplicativo.
 - Trocar ícone da aplicação.

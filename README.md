@@ -4,7 +4,7 @@ Olá, pessoa desenvolvedora! Agradecemos muito seu interesse em fazer nossa sele
 
 ##### 🗨️ Orientações
 
-Crie um repositório no GitHub e ao concluir, adicione [RobertaFortes](https://github.com/RobertaFortes) e [MatheusSchipper](https://github.com/MatheusSchipper) como colaboradores do seu projeto para avaliação ou envie o arquivo zip para o nosso [e-mail](mailto:matheus@theia.com.br?cc=roberta@theia.com.br&subject=Teste%20-%20Mobile).<br><br>
+Crie um repositório no GitHub e ao concluir, adicione [RobertaFortes](https://github.com/RobertaFortes) e [MatheusSchipper](https://github.com/MatheusSchipper) como colaboradores do seu projeto para avaliação.<br><br>
 Consideramos que o tempo ideal para entregar a tarefa é de 3 dias. Mas, se precisar de mais dias para uma entrega mais estruturada, também consideramos super válido e também veremos com bons olhos.
 
 - Prazo ideal: 3 dias
